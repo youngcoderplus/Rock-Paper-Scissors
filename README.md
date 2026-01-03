@@ -42,6 +42,30 @@
 
 ---
 
+## 🔹 *How The Game Works*
+1. The player clicks on one of the buttons: **Rock**, **Paper**, or **Scissors**.  
+2. The computer randomly selects one of the three moves.  
+3. The game compares the player's choice with the computer's choice:  
+   * **Rock beats Scissors**  
+   * **Scissors beats Paper**  
+   * **Paper beats Rock**  
+4. The result (**win, lose, or draw**) is displayed on the page.  
+5. The score is updated and saved in **localStorage**, so it persists across page refreshes.  
+
+---
+
+## 🔹 *Game Screenshots*
+
+### **Game Start**
+![GAME1](images/GAME1.png)
+*The initial screen showing the game buttons and score.*
+
+### **Game Result**
+![GAME2](images/GAME2.png)
+*After the player selects a move, the result and updated score are displayed.*
+
+---
+
 ## 🔹 *Acknowledgements*
 * Got some assistance and guidance from [Super Simple Dev](https://supersimple.dev) in creating this project  
 
