@@ -57,11 +57,11 @@
 ## 🔹 *Game Screenshots*
 
 ### **Game Start**
-![GAME1](images/GAME1.png)
+![GAME1](images/BEFORE.png)
 *The initial screen showing the game buttons and score.*
 
 ### **Game Result**
-![GAME2](images/GAME2.png)
+![GAME2](images/AFTER.png)
 *After the player selects a move, the result and updated score are displayed.*
 
 ---
