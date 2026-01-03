@@ -1,47 +1,53 @@
-# Rock-Paper-Scissors
-📚 What I Learned
+# 📚 What I Learned
 
-Through building this project, I learned and practiced:
+## 🔹 *Functions & Parameters*
+* Passing values like **'rock'**, **'paper'**, and **'scissors'** into functions  
+* Using parameters to make functions reusable and clean  
+* Separating logic into small, meaningful functions  
 
-🎯 Functions & Parameters
+---
 
-Passing values like 'rock', 'paper', and 'scissors' into functions to control game logic.
+## 🔹 *DOM Manipulation*
+* Updating text content dynamically using **JavaScript**
+* Selecting elements using `document.querySelector`
+* Changing UI based on game results  
 
-🖥️ DOM Manipulation
+---
 
-Dynamically updating text content and elements using JavaScript.
+## 🔹 *Local Storage*
+* Saving game scores in **localStorage**
+* Retrieving stored data after page refresh
+* Making the game state persist between sessions  
 
-💾 Local Storage
+---
 
-Saving and retrieving game scores so they persist after refreshing the page.
+## 🔹 *JSON*
+* Using `JSON.stringify()` to store objects
+* Using `JSON.parse()` to retrieve objects
+* Understanding why JSON is needed for localStorage  
 
-🔧 JSON
+---
 
-Using JSON.stringify() and JSON.parse() to store objects in localStorage.
+## 🔹 *Event Handling*
+* Using **onclick** events to trigger game logic
+* Connecting user actions to JavaScript functions
+* Handling button clicks efficiently  
 
-⚡ Event Handling
+---
 
-Using onclick events to trigger game actions.
+## 🔹 *Game Logic*
+* Comparing user input with randomly generated computer moves
+* Determining **win**, **lose**, or **draw** outcomes
+* Applying conditional logic to control game flow  
 
-🕹️ Game Logic
+---
 
-Comparing user input with randomly generated computer moves to determine wins, losses, or ties.
+## 🔹 *Acknowledgements*
+* Got some assistance and guidance from [Super Simple Dev](https://supersimple.dev) in creating this project  
 
+---
 
-How the Game Works
-
--User clicks Rock, Paper, or Scissors
-
--Computer randomly selects a move
-
--The game logic determines:
-
-      Win
-      
-      Loss
-      
-      Tie
-
--Score is updated and saved in localStorage
-
--The UI updates instantly using DOM manipulation
+### ⭐ *Overall*
+* Improved problem‑solving skills  
+* Better understanding of JavaScript fundamentals  
+* Hands‑on experience building a complete interactive game  
